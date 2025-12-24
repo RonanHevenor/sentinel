@@ -1,0 +1,5 @@
+config.json
+monitor.db
+qc/
+venv/
+.venv/
